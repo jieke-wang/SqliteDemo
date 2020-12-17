@@ -1,0 +1,10 @@
+https://medium.com/faun/restful-web-api-using-c-net-core-3-1-with-sqlite-f020d76c9b89
+
+https://docs.microsoft.com/zh-cn/ef/core/providers/sqlite/limitations
+
+EFCore 【Sqlite、Mysql】数据库迁移 并使用数据库，CodeFirst、DBFirst
+https://blog.csdn.net/u014690615/article/details/82718251
+
+
+Add-Migration mysqlte
+Update-Database mysqlte
